@@ -53,7 +53,7 @@ requirements:
     - qtspell
     - quazip
     - sane
-    - tesseract
+    - tesseract <5
   run:
     - djvulibre
     - enchant
