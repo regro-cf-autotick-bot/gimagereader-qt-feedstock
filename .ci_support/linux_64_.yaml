@@ -23,12 +23,8 @@ pin_run_as_build:
     max_pin: x.x
   poppler:
     max_pin: x.x
-  qt:
-    max_pin: x.x
 poppler:
-- '22.01'
-qt:
-- '5.12'
+- '22.04'
 target_platform:
 - linux-64
 zip_keys:
