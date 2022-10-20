@@ -19,12 +19,10 @@ libxml2:
 libzip:
 - '1'
 pin_run_as_build:
-  libxml2:
-    max_pin: x.x
   poppler:
     max_pin: x.x
 poppler:
-- '22.04'
+- '22.10'
 qt_main:
 - '5.15'
 target_platform:
